@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Master's student at Ecole Polytechnique.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Complex Systems:** applications to machine learning, finance, theoretical neuroscience.
+- **Mathematical Physics** stochastic differential equations, statistical physics.
 
 ## News
 
