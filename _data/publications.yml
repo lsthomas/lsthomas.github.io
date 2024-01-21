@@ -1,22 +1,22 @@
 main:
 
   - title: Equations de Navier-Stokes déterministes et stochastiques 
-    authors: Rapport de stage, sous la direction d'Isabelle Gallagher
+    authors: Rapport de stage, sous la direction d'Isabelle Gallagher.
     #conference_short: MICCAI
     conference: Ecole Normale Supérieure, 2023.
     pdf: assets/files/Rapport_de_stage-5.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    #image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: "Algorithmes classiques et quantiques pour le modèle de Hubbard"
+    authors: Rapport de PRL, sous la direction de Thomas Ayral et Michel Ferrero.
+    #conference_short: CVPR
+    conference: Collège de France, 2023.
+    pdf: assets/files/Rapport_PRL-2.pdf
+    code: https://github.com/lsthomas/prl-hubbard
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
     image: ./assets/img/teaser_example.png
