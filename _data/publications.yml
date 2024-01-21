@@ -20,3 +20,14 @@ main:
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: Oral Presentation
     image: assets/img/2D-Hubbard-model.png
+
+      - title: "Entropie quantique et Théorèmes de Loewner"
+    authors: Rapport d'Enseignement d'Approfondissement, sous la direction de Mathieu Lewin.
+    #conference_short: CVPR
+    conference: Ecole Polytechnique, 2023.
+    pdf: assets/files/EA_MAT581___Entropie_Quantique.pdf
+    #code: https://github.com/lsthomas/prl-hubbard
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: assets/img/entropie.webp
