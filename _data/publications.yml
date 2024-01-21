@@ -7,7 +7,7 @@ main:
     pdf: assets/files/Rapport_de_stage-5.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: assets/img/Taylor-Green_vortex_vector_plot.png
     #notes: Early Accept
 
   - title: "Algorithmes classiques et quantiques pour le modèle de Hubbard"
@@ -19,4 +19,4 @@ main:
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: assets/img/2D-Hubbard-model.png
