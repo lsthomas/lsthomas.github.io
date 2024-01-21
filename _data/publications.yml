@@ -1,10 +1,10 @@
 main:
 
   - title: Equations de Navier-Stokes déterministes et stochastiques 
-    #authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    authors: Rapport de stage, sous la direction d'Isabelle Gallagher
     #conference_short: MICCAI
-    #conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    conference: Ecole Normale Supérieure, 2023.
+    pdf: assets/files/Rapport_de_stage-5.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
