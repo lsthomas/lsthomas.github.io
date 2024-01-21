@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Master's student at Ecole Polytechnique.
+I am a Master's student at Ecole Polytechnique. I am looking for a PhD at the crossroad between physics and machine learning. 
 
 ## Research Interests
 
