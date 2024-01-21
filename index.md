@@ -9,7 +9,7 @@ I am a Master's student at Ecole Polytechnique. I am looking for a PhD at the cr
 ## Research Interests
 
 - **Complex Systems:** applications to machine learning, finance, theoretical neuroscience.
-- **Mathematical Physics** stochastic differential equations, statistical physics.
+- **Mathematical Physics:** stochastic differential equations, statistical physics.
 
 <!-- ## News
 
