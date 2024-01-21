@@ -1,6 +1,6 @@
 main:
 
-  - title: Equations de Navier-Stokes déterministes et stochastiques 
+  - title: "Equations de Navier-Stokes déterministes et stochastiques"
     authors: Rapport de stage, sous la direction d'Isabelle Gallagher.
     #conference_short: MICCAI
     conference: Ecole Normale Supérieure, 2023.
@@ -21,7 +21,7 @@ main:
     #notes: Oral Presentation
     image: assets/img/2D-Hubbard-model.png
 
-      - title: "Entropie quantique et Théorèmes de Loewner"
+  - title: "Entropie quantique et Théorèmes de Loewner"
     authors: Rapport d'Enseignement d'Approfondissement, sous la direction de Mathieu Lewin.
     #conference_short: CVPR
     conference: Ecole Polytechnique, 2023.
