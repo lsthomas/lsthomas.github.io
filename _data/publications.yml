@@ -33,7 +33,7 @@ main:
     image: assets/img/entropie.png
 
 
-    - title: "Etude théorique et numérique des trous noirs colorés"
+  - title: "Etude théorique et numérique des trous noirs colorés"
     authors: Rapport de PSC, sous la direction de Lucas Chesnel et Cecile Huneau 
     #conference_short: CVPR
     conference: Ecole Polytechnique, 2022.
