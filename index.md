@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Master's student at Ecole Polytechnique. I am looking for a PhD in Physics of disordered systems.
+I am a Master's student at Ecole Polytechnique. I am looking for a PhD in physics of disordered systems.
 
 <!-- ## News
 
