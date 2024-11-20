@@ -4,12 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Master's student at Ecole Polytechnique. I am looking for a PhD at the crossroad between physics and machine learning. 
-
-## Research Interests
-
-- **Complex Systems:** applications to machine learning, finance, theoretical neuroscience.
-- **Mathematical Physics:** stochastic differential equations, statistical physics.
+I am a Master's student at Ecole Polytechnique. I am looking for a PhD in Physics of disordered systems.
 
 <!-- ## News
 
