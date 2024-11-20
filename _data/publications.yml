@@ -37,7 +37,7 @@ main:
     authors: Rapport de PSC, sous la direction de Lucas Chesnel et Cecile Huneau 
     #conference_short: CVPR
     conference: Ecole Polytechnique, 2022.
-    pdf: assets/files/Rapport_intermédiaire-2.pdf
+    pdf: assets/files/Rapport_intermédiaire-2.pdf
     #code: https://github.com/lsthomas/prl-hubbard
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
