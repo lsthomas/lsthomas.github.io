@@ -4,8 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Master's student at Ecole Polytechnique. I am looking for a PhD in physics of disordered systems.
-
+I am a PhD student at [Laboratoire de Physique Théorique et Modèles Statistiques](https://www.lptms.universite-paris-saclay.fr/), under the supervision of [Valentina Ros][(https://www.lptms.universite-paris-saclay.fr/members/ros-valentina/](https://vale1925.wixsite.com/vros).
 <!-- ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
