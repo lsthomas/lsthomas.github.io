@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 
-<img src="/assets/cezanne.jpg" alt="Mont Sainte-Victoire by Cézanne" style="width: 100%; height: auto; margin: 2em 0;" />
+<img src="/assets/cezanne.jpg" alt="Mont Sainte-Victoire by Cézanne" style="width: 90%; height: auto; margin: 2em 0;" />
 
 
 ## About Me
