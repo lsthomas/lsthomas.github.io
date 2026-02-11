@@ -1,12 +1,12 @@
 main:
 
   - title: "Fragile vs robust Multiple Equilibria phases in generalized Lotka-Volterra model with non-reciprocal interactions "
-    authors: TLS, Valentina Ros.
+    authors: Thomas Louis-Sarrola, Valentina Ros.
     #conference_short: MICCAI
     #conference: Ecole Normale Supérieure, 2023.
-    #pdf: assets/files/Rapport_de_stage-5.pdf
-    code: https://arxiv.org/
+    pdf: https://arxiv.org/
+    #code: https://arxiv.org/
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     #image: assets/img/Taylor-Green_vortex_vector_plot.png
-    #notes: Early Accept
+    notes: Preprint
 
