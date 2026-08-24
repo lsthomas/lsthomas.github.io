@@ -14,6 +14,6 @@ I am a PhD student at [Laboratoire de Physique Théorique et Modèles Statistiqu
 
 I am interested in disordered systems, particularly high-dimensional dynamics and their applications to optimisation, ecosystems, and machine learning. I am also interested in mathematical finance and econophysics.
 
-{% include_relative _includes/teaching.md %}
-
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/teaching.md %}
