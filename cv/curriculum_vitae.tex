@@ -1,0 +1,100 @@
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[a4paper,margin=1.45cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{xcolor}
+\usepackage{tabularx}
+\usepackage{hyperref}
+
+\definecolor{accent}{HTML}{0B2D66}
+\hypersetup{
+  colorlinks=true,
+  urlcolor=accent,
+  linkcolor=accent,
+  pdfauthor={Thomas Louis-Sarrola},
+  pdftitle={Curriculum Vitae - Thomas Louis-Sarrola}
+}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\renewcommand{\arraystretch}{1.08}
+
+\newcommand{\cvsection}[1]{%
+  \vspace{0.72em}%
+  {\large\bfseries\color{accent}\MakeUppercase{#1}}\\[-0.45em]
+  {\color{accent}\rule{\linewidth}{0.55pt}}\par\vspace{0.32em}
+}
+
+\newcommand{\entry}[4]{%
+  \begin{tabularx}{\linewidth}{@{}Xr@{}}
+    \textbf{#1} & #2 \\
+  \end{tabularx}\par
+  {\itshape #3}\par
+  #4\par\vspace{0.52em}
+}
+
+\begin{document}
+
+\begin{center}
+  {\fontsize{25}{29}\selectfont\bfseries Thomas LOUIS-SARROLA}\par
+  \vspace{0.15em}
+  {\large PhD Student in Statistical Physics}\par
+  \vspace{0.5em}
+  \href{mailto:thomas.louissarrola@gmail.com}{thomas.louissarrola@gmail.com}
+  \quad $\vert$ \quad
+  +33 7 86 53 76 37
+  \quad $\vert$ \quad
+  \href{https://lsthomas.github.io}{lsthomas.github.io}
+\end{center}
+
+\cvsection{Education}
+\entry{PhD in Statistical Physics}{2025--2028}
+  {Université Paris-Saclay, Orsay}
+  {High-dimensional dynamics: statistics of equilibria and dynamical trajectories. Supervised by Valentina Ros (CNRS) and Pierfrancesco Urbani (CNRS).}
+
+\entry{M2 in Complex Systems Physics}{2024--2025}
+  {Sorbonne Université, Paris}
+  {Graduated with highest honours; awarded a doctoral-school scholarship in physics for the Île-de-France region.}
+
+\entry{M2 in Probability and Finance}{2023--2024}
+  {Sorbonne Université, Paris}
+  {}
+
+\entry{École Polytechnique Engineering Programme}{2020--2024}
+  {École Polytechnique, Paris}
+  {M1 in Fundamental Mathematics.}
+
+\cvsection{Experience}
+\entry{Teaching Assistant}{2025--2026}
+  {École Polytechnique, Paris}
+  {Analysis course for first-year bachelor's students (64 hours), taught with Frank Pacard.}
+
+\entry{Quantitative Researcher}{2025}
+  {Qube Research \& Technologies, Paris}
+  {Six-month internship supervised by Augustin Landier (HEC Paris).}
+
+\entry{Research Intern in Mathematical Physics}{2023}
+  {DMA, École Normale Supérieure, Paris}
+  {Four-month internship supervised by Isabelle Gallagher on deterministic and stochastic Navier--Stokes equations. Recipient of the 2023 research internship prize.}
+
+\entry{Research and Development Intern}{2022}
+  {ID Quantique, Geneva}
+  {Three-month internship researching classical and quantum random number generators.}
+
+\cvsection{Publications}
+\textbf{Fragile vs robust multiple equilibria phases in generalized Lotka--Volterra model with non-reciprocal interactions.}\par
+Thomas Louis-Sarrola and Valentina Ros. \textit{SciPost Physics} \textbf{21}, 014 (2026).
+\href{https://doi.org/10.21468/SciPostPhys.21.1.014}{doi:10.21468/SciPostPhys.21.1.014}.\par
+
+\cvsection{Interests and skills}
+\begin{tabularx}{\linewidth}{@{}>{\bfseries}p{2.5cm}X@{}}
+  Sport & Basketball (captain of École Polytechnique's team); road and trail running. \\
+  Programming & Python, OCaml, Java, LaTeX. \\
+  Languages & French (native), English (fluent; international baccalaureate), German (intermediate), Corsican (basic).
+\end{tabularx}
+
+\end{document}

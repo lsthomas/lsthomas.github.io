@@ -4,9 +4,8 @@ main:
     authors: Thomas Louis-Sarrola, Valentina Ros.
     #conference_short: MICCAI
     #conference: Ecole Normale Supérieure, 2023.
-    pdf: https://arxiv.org/abs/2602.10856
+    pdf: https://doi.org/10.21468/SciPostPhys.21.1.014
     #code: https://arxiv.org/
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     #image: assets/img/Taylor-Green_vortex_vector_plot.png
-    notes: Preprint
-
+    notes: SciPost Physics 21, 014 (2026)
