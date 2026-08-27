@@ -1,6 +1,6 @@
-\documentclass[10pt,a4paper]{article}
+\documentclass[9pt,a4paper]{extarticle}
 
-\usepackage[a4paper,margin=1.45cm]{geometry}
+\usepackage[a4paper,left=1.2cm,right=1.2cm,top=0.8cm,bottom=0.8cm]{geometry}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage{lmodern}
@@ -24,9 +24,9 @@
 \renewcommand{\arraystretch}{1.08}
 
 \newcommand{\cvsection}[1]{%
-  \vspace{0.72em}%
+  \vspace{0.48em}%
   {\large\bfseries\color{accent}\MakeUppercase{#1}}\\[-0.45em]
-  {\color{accent}\rule{\linewidth}{0.55pt}}\par\vspace{0.32em}
+  {\color{accent}\rule{\linewidth}{0.55pt}}\par\vspace{0.22em}
 }
 
 \newcommand{\entry}[4]{%
@@ -34,16 +34,16 @@
     \textbf{#1} & #2 \\
   \end{tabularx}\par
   {\itshape #3}\par
-  #4\par\vspace{0.52em}
+  #4\par\vspace{0.32em}
 }
 
 \begin{document}
 
 \begin{center}
-  {\fontsize{25}{29}\selectfont\bfseries Thomas LOUIS-SARROLA}\par
+  {\fontsize{23}{27}\selectfont\bfseries Thomas LOUIS-SARROLA}\par
   \vspace{0.15em}
   {\large PhD Student in Statistical Physics}\par
-  \vspace{0.5em}
+  \vspace{0.35em}
   \href{mailto:thomas.louissarrola@gmail.com}{thomas.louissarrola@gmail.com}
   \quad $\vert$ \quad
   +33 7 86 53 76 37
@@ -69,10 +69,6 @@
   {M1 in Fundamental Mathematics.}
 
 \cvsection{Experience}
-\entry{Teaching Assistant}{2025--2026}
-  {École Polytechnique, Paris}
-  {Analysis course for first-year bachelor's students (64 hours), taught with Frank Pacard.}
-
 \entry{Quantitative Researcher}{2025}
   {Qube Research \& Technologies, Paris}
   {Six-month internship supervised by Augustin Landier (HEC Paris).}
@@ -85,10 +81,44 @@
   {ID Quantique, Geneva}
   {Three-month internship researching classical and quantum random number generators.}
 
+\cvsection{Teaching}
+\entry{Mathematiques appliquées aux Sciences Sociales}{2026--2027}
+  {Sciences Po, Paris}
+  {1A Tutorials, including the pre-term intensive course. Advanced group.}
+
+\entry{Algorithms for Discrete Mathematics (APM\_2F005\_EP)}{2026--2027}
+  {École Polytechnique, Palaiseau}
+  {Bachelor 2A, Practical sessions.}
+
+\entry{Aléatoire (APM\_3X061\_EP)}{2026--2027}
+  {École Polytechnique, Palaiseau}
+  {Cycle ingénieur 1A, Tutoring.}
+
+\entry{Analysis}{2025--2026}
+  {École Polytechnique, Palaiseau}
+  {Bachelor 1A Tutorials (64 hours), taught with Frank Pacard.}
+
 \cvsection{Publications}
 \textbf{Fragile vs robust multiple equilibria phases in generalized Lotka--Volterra model with non-reciprocal interactions.}\par
 Thomas Louis-Sarrola and Valentina Ros. \textit{SciPost Physics} \textbf{21}, 014 (2026).
 \href{https://doi.org/10.21468/SciPostPhys.21.1.014}{doi:10.21468/SciPostPhys.21.1.014}.\par
+
+\cvsection{Conferences and schools}
+\entry{\href{https://fpspxvi.sciencesconf.org/}{Fundamental Problems in Statistical Physics XVI}}{2025}
+  {Oropa, Italy}
+  {International summer school.}
+
+\entry{\href{https://sites.google.com/view/noneqstatphys/home}{2nd Barcelona School of Non-Equilibrium Physics}}{2026}
+  {Barcelona, Spain}
+  {Presentation.}
+
+\entry{\href{https://www.uni-bielefeld.de/einrichtungen/zif/groups/previous/matrices/}{Workshop ``Random Matrix Theory for Ecology, Economics, Finance and Statistical Physics''}}{2025}
+  {ZiF, Bielefeld, Germany}
+  {}
+
+\entry{\href{https://css-fr2026.sciencesconf.org/}{Journées françaises des Systèmes Complexes 2026}}{2026}
+  {Lyon, France}
+  {Presentation.}
 
 \cvsection{Interests and skills}
 \begin{tabularx}{\linewidth}{@{}>{\bfseries}p{2.5cm}X@{}}
