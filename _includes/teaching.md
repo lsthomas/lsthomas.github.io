@@ -2,11 +2,13 @@
 
 ### 2026–2027
 
-- **Sciences Po — Advanced Mathematics.** Tutorials for the advanced-level mathematics course. Current *pré-rentrée* material:
-  [TD 1 — Fonctions, limites et dérivation](/assets/teaching/sciences-po/pre-rentree/td1-functions.pdf),
-  [TD 2 — Suites](/assets/teaching/sciences-po/pre-rentree/td2-sequences.pdf), and
-  [TD 3 — Systèmes d’équations linéaires](/assets/teaching/sciences-po/pre-rentree/td3-linear-systems.pdf).
-  The [course notes](/assets/teaching/sciences-po/pre-rentree/course-notes.pdf) are also available.
+- **Sciences Po — Advanced Mathematics.** Tutorials for the advanced-level mathematics course.
+  - **Pré-rentrée**
+    - [TD 1 — Fonctions, limites et dérivation](/assets/teaching/sciences-po/pre-rentree/td1-functions.pdf)
+    - [TD 2 — Suites](/assets/teaching/sciences-po/pre-rentree/td2-sequences.pdf)
+    - [TD 3 — Systèmes d’équations linéaires](/assets/teaching/sciences-po/pre-rentree/td3-linear-systems.pdf)
+    - [Polycopié](/assets/teaching/sciences-po/pre-rentree/course-notes.pdf)
+  - **Rentrée** — supports à venir.
 - **École Polytechnique — Algorithms for Discrete Mathematics (APM_2F005_EP).** Practical sessions. Course materials are available on [Moodle IP Paris](https://moodle.ip-paris.fr/).
 - **École Polytechnique — Aléatoire (APM_3X061_EP).** Tutoring.
 
