@@ -33,3 +33,5 @@ sync_file "$course_dir/Pre rentrée/TD 3 - Systèmes linéaires/TD3_Systemes_lin
   "$destination_dir/td3-linear-systems.pdf"
 sync_file "$course_dir/Pre rentrée/Notes de cours/notes_de_cours.pdf" \
   "$destination_dir/course-notes.pdf"
+sync_file "$course_dir/Semestre/TD 1 - Matrices/TD1_Matrices.pdf" \
+  "assets/teaching/sciences-po/semester/td1-matrices.pdf"

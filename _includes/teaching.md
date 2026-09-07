@@ -8,7 +8,8 @@
     - [TD 2 — Suites](/assets/teaching/sciences-po/pre-rentree/td2-sequences.pdf)
     - [TD 3 — Systèmes d’équations linéaires](/assets/teaching/sciences-po/pre-rentree/td3-linear-systems.pdf)
     - [Polycopié](/assets/teaching/sciences-po/pre-rentree/course-notes.pdf)
-  - **Rentrée** — supports à venir.
+  - **Rentrée**
+    - [TD 1 — Matrices](/assets/teaching/sciences-po/semester/td1-matrices.pdf)
 - **École Polytechnique — Algorithms for Discrete Mathematics (APM_2F005_EP).** Practical sessions. Course materials are available on [Moodle IP Paris](https://moodle.ip-paris.fr/).
 - **École Polytechnique — Aléatoire (APM_3X061_EP).** Tutoring.
 
