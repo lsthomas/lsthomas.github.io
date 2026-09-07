@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+
+# Copy the public Sciences Po course PDFs from their authoring repository.
+# Override COURS_SP_DIR when the course repository lives somewhere else.
+set -euo pipefail
+
+course_dir="${COURS_SP_DIR:-/Users/thomas/Documents/cours/cours-SP}"
+destination_dir="assets/teaching/sciences-po/pre-rentree"
+
+sync_file() {
+  local source="$1"
+  local destination="$2"
+
+  if [[ ! -f "$source" ]]; then
+    printf 'Missing source PDF: %s\n' "$source" >&2
+    exit 1
+  fi
+
+  mkdir -p "$(dirname "$destination")"
+  if [[ -f "$destination" ]] && cmp -s "$source" "$destination"; then
+    printf 'Unchanged: %s\n' "$destination"
+  else
+    cp "$source" "$destination"
+    printf 'Updated: %s\n' "$destination"
+  fi
+}
+
+sync_file "$course_dir/Pre rentrée/TD 1 - Fonctions/TD1_Fonctions.pdf" \
+  "$destination_dir/td1-functions.pdf"
+sync_file "$course_dir/Pre rentrée/TD 2 - Suites/TD2_Suites.pdf" \
+  "$destination_dir/td2-sequences.pdf"
+sync_file "$course_dir/Pre rentrée/TD 3 - Systèmes linéaires/TD3_Systemes_lineaires.pdf" \
+  "$destination_dir/td3-linear-systems.pdf"
+sync_file "$course_dir/Pre rentrée/Notes de cours/notes_de_cours.pdf" \
+  "$destination_dir/course-notes.pdf"
