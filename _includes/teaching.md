@@ -3,11 +3,11 @@
 ### 2026–2027
 
 - **Sciences Po — Advanced Mathematics.** Tutorials for the advanced-level mathematics course.
+  - [Polycopié (Octobre 2026)](/assets/teaching/sciences-po/course-notes.pdf)
   - **Pré-rentrée**
     - [TD 1 — Fonctions, limites et dérivation](/assets/teaching/sciences-po/pre-rentree/td1-functions.pdf)
     - [TD 2 — Suites](/assets/teaching/sciences-po/pre-rentree/td2-sequences.pdf)
     - [TD 3 — Systèmes d’équations linéaires](/assets/teaching/sciences-po/pre-rentree/td3-linear-systems.pdf)
-    - [Polycopié](/assets/teaching/sciences-po/pre-rentree/course-notes.pdf)
   - **Rentrée**
     - [TD 1 — Matrices](/assets/teaching/sciences-po/semester/td1-matrices.pdf)
     - [TD 2 — Dérivation, convexité et optimisation](/assets/teaching/sciences-po/semester/td2-derivation-convexity.pdf)
