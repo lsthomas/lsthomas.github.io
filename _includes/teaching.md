@@ -11,6 +11,7 @@
   - **Rentrée**
     - [TD 1 — Matrices](/assets/teaching/sciences-po/semester/td1-matrices.pdf)
     - [TD 2 — Dérivation, convexité et optimisation](/assets/teaching/sciences-po/semester/td2-derivation-convexity.pdf)
+    - [TD 4 — Mesures d’inégalités](/assets/teaching/sciences-po/semester/td4-inequality-measures.pdf)
 - **École Polytechnique — Algorithms for Discrete Mathematics (APM_2F005_EP).** Practical sessions. Course materials are available on [Moodle IP Paris](https://moodle.ip-paris.fr/).
 - **École Polytechnique — Aléatoire (APM_3X061_EP).** Tutoring.
 

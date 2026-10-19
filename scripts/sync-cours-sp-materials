@@ -37,3 +37,5 @@ sync_file "$course_dir/Semestre/TD 1 - Matrices/TD1_Matrices.pdf" \
   "assets/teaching/sciences-po/semester/td1-matrices.pdf"
 sync_file "$course_dir/Semestre/TD 2 - Dérivation et convexité/TD2_Derivation_convexite.pdf" \
   "assets/teaching/sciences-po/semester/td2-derivation-convexity.pdf"
+sync_file "$course_dir/Semestre/TD 4 - Mesures d'inégalités/TD4_Mesures_inegalites.pdf" \
+  "assets/teaching/sciences-po/semester/td4-inequality-measures.pdf"
