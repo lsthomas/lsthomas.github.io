@@ -31,11 +31,13 @@ sync_file "$course_dir/Pre rentrée/TD 2 - Suites/TD2_Suites.pdf" \
   "$destination_dir/td2-sequences.pdf"
 sync_file "$course_dir/Pre rentrée/TD 3 - Systèmes linéaires/TD3_Systemes_lineaires.pdf" \
   "$destination_dir/td3-linear-systems.pdf"
-sync_file "$course_dir/Notes de cours/notes_de_cours_sans_rendements.pdf" \
+sync_file "$course_dir/Notes de cours/notes_de_cours_sans_inegalites.pdf" \
   "assets/teaching/sciences-po/course-notes.pdf"
 sync_file "$course_dir/Semestre/TD 1 - Matrices/TD1_Matrices.pdf" \
   "assets/teaching/sciences-po/semester/td1-matrices.pdf"
 sync_file "$course_dir/Semestre/TD 2 - Dérivation et convexité/TD2_Derivation_convexite.pdf" \
   "assets/teaching/sciences-po/semester/td2-derivation-convexity.pdf"
+sync_file "$course_dir/Semestre/TD 3 - Fonctions de plusieurs variables et optimisation/TD3_Fonctions_plusieurs_variables_optimisation.pdf" \
+  "assets/teaching/sciences-po/semester/td3-multivariable-optimization.pdf"
 sync_file "$course_dir/Semestre/TD 4 - Mesures d'inégalités/TD4_Mesures_inegalites.pdf" \
   "assets/teaching/sciences-po/semester/td4-inequality-measures.pdf"
